@@ -16,7 +16,7 @@
 
 [<< 1. Gün](../readMe.md) | [3. Gün >>](../03_Day_Booleans_operators_date/03_booleans_operators_date.md)
 
-![Thirty Days Of JavaScript](.../images/banners/day_1_2.png)
+![Thirty Days Of JavaScript](../images/banners/day_1_2.png)
 
 - [📔 2. Gün](#-day-2)
 	- [Data Types](#data-types)

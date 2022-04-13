@@ -18,7 +18,7 @@
 
 ![Thirty Days Of JavaScript](../images/banners/day_1_2.png)
 
-- [📔 Day 2](#-day-2)
+- [📔 2. Gün](#-day-2)
 	- [Data Types](#data-types)
 		- [Primitive Data Types](#primitive-data-types)
 		- [Non-Primitive Data Types](#non-primitive-data-types)
